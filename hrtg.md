@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>我的第一個網站</title>
 </head>
 
 <body>
